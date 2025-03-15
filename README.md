@@ -5,6 +5,8 @@
 - **M.Sc. in Economics**, BITS Pilani (May 2014)  
 - **B.E. in Chemical Engineering**, BITS Pilani (May 2014)  
 
+### **Publications**
+[HALT: Hate Speech Alleviation using LLMs and  Transformers](https://aclanthology.org/2025.mcg-1.8/)
 
 #### Technical Skills - Python, SQL, Tableau, AWS, GCP, Docker
 
