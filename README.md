@@ -1,4 +1,6 @@
-# **AI Technical Program Manager · RL Environments & Agent Evaluations · Applied ML**
+# **AI Technical Program Manager**
+
+**RL Environments · Agent Evaluations · Applied ML**
 
 I build the environments and evaluations that show where AI agents fail, and the programs that ship them.
 
@@ -40,11 +42,13 @@ At Uber AI Solutions I led reinforcement-learning environments with verifiable r
 ## Experience
 
 **Uber** (04/2022 – present)
+
 - Senior Data Analyst (09/2026 – present): leading projects that apply AI agents to automate operations work
 - Technical Program Manager II / AI Engineer, Uber AI Solutions (04/2025 – 08/2026)
 - Data Analyst II, Tech, ML track (04/2022 – 03/2025)
 
 **Dell Global Analytics** (06/2014 – 03/2022)
+
 - Senior Advisor, BI & Analytics: built the DTS WICI market-intelligence platform (**Winner, Dyuti 10.0**)
 - Advisor, BI: clustering and propensity models to target the top 100 revenue clients
 - Senior Analyst and Analyst: fraud detection and operational analytics across ~100K monthly transactions
