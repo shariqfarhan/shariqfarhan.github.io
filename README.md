@@ -9,7 +9,7 @@ At Uber AI Solutions I led reinforcement-learning environments with verifiable r
 ## Publications
 
 - **EnterpriseFact: Where Frontier Agents Fail in Enterprise Fact-Finding**: 2nd Workshop on Agentic AI Benchmarks and Applications for Enterprise Tasks (AABA4ET), NeurIPS 2026
-- **Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning**: ACM CAIS 2026, RLEval Workshop (poster)
+- **[Beyond Static Evaluation: Building Simulation Environments for Scalable Agentic Reinforcement Learning](https://arxiv.org/abs/2607.05773)**: ACM CAIS 2026, RLEval Workshop (poster)
 - **[HALT: Hate Speech Alleviation using LLMs and Transformers](https://aclanthology.org/2025.mcg-1.8/)**: Workshop on Multilingual Counterspeech Generation, COLING 2025
 
 ## Selected work
