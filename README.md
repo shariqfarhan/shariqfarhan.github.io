@@ -18,7 +18,7 @@ At Uber AI Solutions I led reinforcement-learning environments with verifiable r
 - **RLVR environments for frontier AI labs (Uber AI Solutions)**: Architected the RL gym platform behind the environments and an automated generator of tasks that frontier models could not solve, with human review of every task. Closed reward-hacking paths by tying rewards to verified environment state. **100% submission acceptance** across the client's QA tiers.
 - **Agent evaluations**: Delivered synthetic data, model-stumping tasks and agent trajectory evaluations across tool-use and computer-use agents, spanning hundreds of tasks.
 - **EnterpriseFact benchmark**: Showed where 11 frontier models fail at enterprise fact-finding. The best model found 70.4% of the required facts but fully solved only 24.7% of tasks. LLM judge calibrated against an independent judge (94.1% agreement, Cohen's κ = 0.88).
-- **Terminal Bench**: Designed an enterprise-system task accepted into the official Terminal Bench suite, built to stump Claude Opus 4.8, Gemini-3.1 Pro and GPT-5.5.
+- **Terminal Bench**: Designed an enterprise-system task for Terminal Bench that met every submission requirement and stumped Claude Opus 4.8, Gemini-3.1 Pro and GPT-5.5.
 
 ### Production AI and ML
 - **Autonomous support agent**: Shipped an agent (LangChain, LangGraph) that cut average resolution time by more than 80%, from 2 days to under 10 hours.
