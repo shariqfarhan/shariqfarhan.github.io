@@ -21,7 +21,7 @@ At Uber AI Solutions I led reinforcement-learning environments with verifiable r
 - **Terminal Bench**: Designed an enterprise-system task for Terminal Bench that met every submission requirement and stumped Claude Opus 4.8, Gemini-3.1 Pro and GPT-5.5.
 
 ### Production AI and ML
-- **Autonomous support agent**: Shipped an agent (LangChain, LangGraph) that cut average resolution time by more than 80%, from 2 days to under 10 hours.
+- **Autonomous support agent**: Shipped an agent (LangChain, LangGraph) that cut resolution time by more than 95%, from 2 hours to under 5 minutes.
 - **Agent reliability**: Led 20 engineers, ML engineers and QA specialists; stress testing and failure telemetry raised production agent reliability by 20%.
 - **Indic-language abuse detection**: Productionized an NLP classifier over 100M+ chat logs (F1 > 97%).
 - **Bug impact sizing**: ML pipeline over 1M+ real-time event logs to size the operational scope of software bugs.
